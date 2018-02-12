@@ -1,30 +1,29 @@
-# xialv
+# xl.vue
 
-> A Vue.js project
+该项目是由当下流行的框架之一vue搭建的前端项目。其中用vue来搭建前端页面，以vuex来实现页面间的数据共享与一致性，并且运用koa来搭建模拟后台的数据，webpack打包部署。
 
-## Build Setup
 
-``` bash
-# install dependencies
-npm install
+##### 备注：此项目仅用于学习交流，不可用于任何商业用途
 
-# serve with hot reload at localhost:8080
-npm run dev
+### 技术栈
 
-# build for production with minification
-npm run build
+vue/vuex/koa/koa-router/webpack/nodejs
 
-# build for production and view the bundle analyzer report
-npm run build --report
+### 运行项目
 
-# run unit tests
-npm run unit
+1.安装包 npm install
 
-# run e2e tests
-npm run e2e
+2.启动模拟数据 npm run mock
 
-# run all tests
-npm test
-```
+3.启动服务 npm run start
 
-For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+4.浏览 http://localhost:8080/
+
+
+### 部分页面截图预览
+
+![image](https://raw.githubusercontent.com/466102061/loan-react-app/master/app/static/preview/1.png)
+![image](https://raw.githubusercontent.com/466102061/loan-react-app/master/app/static/preview/2.png)
+![image](https://raw.githubusercontent.com/466102061/loan-react-app/master/app/static/preview/3.png)
+![image](https://github.com/466102061/xl.vue/blob/master/src/assets/img/preview.png)
+
