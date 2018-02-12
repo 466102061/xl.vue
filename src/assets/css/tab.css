@@ -1,0 +1,21 @@
+.tabItem{
+	width:50%;
+	height:48px;
+	float:left;
+	text-align:center;
+	background-color:#fff;
+	border-bottom:1px solid #f7f7f7;
+}
+.tabItem > span{
+	display:inline-block;
+	height:48px;
+	line-height:48px;
+	font-size:15px;
+	color:#808080;
+	padding:0 15px;
+	cursor:pointer;
+}
+.tabItem > span.cur{
+	color:#333333;
+	border-bottom:2px solid #ffbe00;
+}

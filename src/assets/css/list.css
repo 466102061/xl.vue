@@ -1,0 +1,56 @@
+
+.gItem{
+	width:100%;
+	min-height:110px;
+	position:relative;
+	padding-left:110px;
+	background-color:#fff;
+	border-bottom:1px solid #f2f2f2;
+}
+.gItemPic{
+	display:block;
+	position:absolute;
+	width:80px;
+	height:80px;
+	left:10px;
+	top:50%;
+	margin-top:-40px;
+	background-size:80px;
+}
+.gItemText{
+	padding-right:5px;
+	padding-top:10px;
+}
+.gTitle{
+	font-size:14px;
+	color:#333333;
+	margin-bottom:5px;
+}
+.gTitle span{
+	margin-right:15px;
+	vertical-align:middle;
+}
+.gIcoHot{
+	display:inline-block;
+	width:16px;
+	height:18.5px;
+	background-size:16px 18.5px;
+	vertical-align:middle;
+}
+.gAdress,.gTime{
+	font-size:11px;
+	color:#999;
+	line-height:20px;
+}
+.gSpan{
+	padding-top:3px;
+	padding-bottom:10px;
+}
+.gSpan > span{
+	font-size:9px;
+	color:#ffbe00;
+	padding:1px 5px;
+	border:1px solid #ffbe00;
+	vertical-align:middle;
+	margin-right:10px;
+}

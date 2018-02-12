@@ -1,0 +1,34 @@
+body {
+  font-family: 'Avenir', Helvetica, Arial, sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+* {
+	margin:0;
+	padding:0;
+    -webkit-margin-before: 0;
+    -webkit-margin-after: 0;
+    -webkit-margin-start: 0px;
+    -webkit-margin-end: 0px;
+}
+*,*:before,*:after{
+	box-sizing:border-box;
+	-webkit-box-sizing:border-box;
+	-o-box-sizing:border-box;
+}
+.clearfix:after{
+	display:block;
+	clear:both;
+	content:'';
+	width:0;
+	height:0;
+	font-size:0;
+	visibility:hidden;
+}
+.mbody{
+	width:100%;
+	max-width:487px;
+	margin:0 auto;
+}
+ul{list-style:none;}
+a{text-decoration: none;}
