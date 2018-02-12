@@ -22,8 +22,5 @@ vue/vuex/koa/koa-router/webpack/nodejs
 
 ### 部分页面截图预览
 
-![image](https://raw.githubusercontent.com/466102061/loan-react-app/master/app/static/preview/1.png)
-![image](https://raw.githubusercontent.com/466102061/loan-react-app/master/app/static/preview/2.png)
-![image](https://raw.githubusercontent.com/466102061/loan-react-app/master/app/static/preview/3.png)
 ![image](https://github.com/466102061/xl.vue/blob/master/src/assets/img/preview.png)
 
